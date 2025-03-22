@@ -1,18 +1,18 @@
 # Project 3: Piece of Cake
 ## Summary
 
-Course: COMS 4444 Programming and Problem Solving (Fall 2024)  
-Problem Description: https://www.cs.columbia.edu/~kar/4444f24/node20.html  
-Course Website: https://www.cs.columbia.edu/~kar/4444f24/4444f24.html
-University: Columbia University  
-Instructor: Prof. Kenneth Ross 
-TA Designer for this project: Divyang Mittal
+Course: COMS 4444 Programming and Problem Solving (Fall 2024) \
+Problem Description: https://www.cs.columbia.edu/~kar/4444f24/node20.html \ 
+Course Website: https://www.cs.columbia.edu/~kar/4444f24/4444f24.html \
+University: Columbia University  \
+Instructor: Prof. Kenneth Ross  \
+TA Designer for this project: Divyang Mittal \
 Project Language: Python
 
 ## Group 6
-View the complete report [here](https://drive.google.com/file/d/1w9aI48wtcBFW02b6cJQv_06UDr_EBkUO/view?usp=sharing)
-Fastest and most efficient!
-Grid cutting algorithm
+View the complete report [here](https://drive.google.com/file/d/1w9aI48wtcBFW02b6cJQv_06UDr_EBkUO/view?usp=sharing) \
+Fastest and most efficient! \
+Grid cutting algorithm \
 Team: Adithi Narayan, Aditya Nangia, Divyang Mittal
 
 ## Installation
