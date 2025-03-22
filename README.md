@@ -1,26 +1,19 @@
 # Project 3: Piece of Cake
-
-## Citation and License
-This project belongs to Department of Computer Science, Columbia University. It may be used for educational purposes under Creative Commons **with proper attribution and citation** for the author TAs **Divyang Mittal (First Author), Raavi Gupta and the Instructor, Prof. Kenneth Ross**.
-
 ## Summary
 
 Course: COMS 4444 Programming and Problem Solving (Fall 2024)  
 Problem Description: https://www.cs.columbia.edu/~kar/4444f24/node20.html  
 Course Website: https://www.cs.columbia.edu/~kar/4444f24/4444f24.html
 University: Columbia University  
-Instructor: Prof. Kenneth Ross  
+Instructor: Prof. Kenneth Ross 
+TA Designer for this project: Divyang Mittal
 Project Language: Python
 
-### TA Designer for this project
-
-Divyang Mittal
-
-### Teaching Assistants for Course
-1. Divyang Mittal
-2. Raavi Gupta
-
-### All course projects
+## Group 6
+View the complete report [here](https://drive.google.com/file/d/1w9aI48wtcBFW02b6cJQv_06UDr_EBkUO/view?usp=sharing)
+Fastest and most efficient!
+Grid cutting algorithm
+Team: Adithi Narayan, Aditya Nangia, Divyang Mittal
 
 ## Installation
 
@@ -47,6 +40,11 @@ pip install .
 To view all options use python3 main.py -h
 ```bash
 python3 main.py [-d/--tolerance] [-rq/--requests] [-s/--seed]  [-sc/--scale] [-ng/--no_gui] [-p/--player]
+```
+
+To try our implementation run with --player 6 or -p 6
+```bash
+python3 main.py -d 15 -rq "requests/default/easy.json" -p 6
 ```
 
 ## Debugging
